@@ -74,7 +74,7 @@ email: ""
 # - Visitors
 ---
 
-I am a PhD student at the University of Chicago studying Computer Science. I work with [Prof. Pedro Lopes](https://plopes.org) in the [Human Computer Integration Lab](https://lab.plopes.org/) and am broadly interested in Human-Computer Interaction (HCI), with focus on creating novel interaction through haptics for new user experiences. I like to operate at the intersection of HCI and materials science to unlock new interaction possibilities.
+I am a PhD student at the University of Chicago studying Computer Science. I work with [Prof. Pedro Lopes](http://plopes.org) in the [Human Computer Integration Lab](https://lab.plopes.org/) and am broadly interested in Human-Computer Interaction (HCI), with focus on creating novel interaction through haptics for new user experiences. I like to operate at the intersection of HCI and materials science to unlock new interaction possibilities.
 
 Previously, I worked with [Prof. Jeong-Hoi Koo](http://miamioh.edu/cec/academics/departments/mme/about/faculty-and-staff/koo-bio/index.html) at Miami University, where I was a [Research Fellow for NASA and the Ohio Space Grant Consortium](https://www.osgc.org). I have worked as a visiting student researcher at Korea Advanced Institute of Science and Technology (KAIST) in the [Smart Systems and Structures Lab](http://sss.kaist.ac.kr/).
 
