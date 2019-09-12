@@ -1,7 +1,7 @@
 ---
 title: "Multiphysics Modeling and Parametric Analysis of an Inductor for Heating Thin Sheet Materials"
 date: 2018-11-01
-publishDate: 2019-09-12T19:27:09.915581Z
+publishDate: 2019-09-12T19:31:12.215258Z
 authors: ["Alex Mazursky", "Hee-Chang Park", "Sung-Hyuk Song", "Jeong-Hoi Koo"]
 publication_types: ["1"]
 abstract: ""
