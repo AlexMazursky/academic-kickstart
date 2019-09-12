@@ -14,6 +14,8 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
+- name: "Human-Computer Integration Lab"
+  url: "https://lab.plopes.org/"
 - name: "The University of Chicago"
   url: "https://www.uchicago.edu/"
 
