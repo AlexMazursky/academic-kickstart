@@ -22,11 +22,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Researching new tech for HCI.
 
-# interests:
-#- Human-Computer Interaction
-#- Haptics
-#- Wearables
-#- Smart Materials
+interests:
+- Human-Computer Interaction
+- Haptics
+- Wearables
+- Smart Materials
 
 education:
   courses:
