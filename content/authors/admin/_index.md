@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Alex Mazursky
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,22 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Human-Computer Integration Lab
+	url: "https://lab.plopes.org/"
+- name: The University of Chicago
+  url: "https://www.uchicago.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Researching new tech for HCI.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+# interests:
+#- Artificial Intelligence
+#- Computational Linguistics
+#- Information Retrieval
 
 education:
   courses:
@@ -70,6 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a PhD student at the University of Chicago studying Computer Science. I am broadly interested in Human-Computer Interaction (HCI), with focus on creating novel interaction through haptics for new user experiences. Additionally, I look to explore new digital fabrication techniques. I like to operate at the intersection of HCI and materials science to unlock new interaction possibilities.
