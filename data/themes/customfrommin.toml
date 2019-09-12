@@ -5,7 +5,7 @@ name = "customfrommin"
 light = true
 
 # Primary
-primary = "#800000"
+primary = "#2962ff"
 
 # Menu
 menu_primary = "#fff"
