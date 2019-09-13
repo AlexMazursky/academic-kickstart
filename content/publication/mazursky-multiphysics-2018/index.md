@@ -8,7 +8,8 @@ abstract: "Over the past two decades, induction heating technology has begun to 
 featured: false
 publication: "*Volume 2: Advanced Manufacturing*"
 tags: ["induction heating", "multiphysics"]
-url_pdf: "http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?doi=10.1115/IMECE2018-88676"
+url_pdf: "http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?
+doi=10.1115/IMECE2018-88676"
 doi: "10.1115/IMECE2018-88676"
 ---
 
