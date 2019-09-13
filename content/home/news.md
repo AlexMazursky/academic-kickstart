@@ -55,8 +55,6 @@ subtitle = ""
 
 <span style="color: #800000;">**(05/2019)** </span> I defended my MS thesis at Miami University and graduated!
 
-```
-{{< figure library="true" src="thesisCelebration.jpg" width="200">}}
-```
+![Example image](/static/img/thesisCelebration.jpg)
 
 <span style="color: #800000;">**(03/2019)** </span> My first journal paper on our [ER fluid-based haptic actuator is now live]([**https://journals.sagepub.com/doi/10.1177/1045389X19836172**](https://journals.sagepub.com/doi/10.1177/1045389X19836172))!
