@@ -56,7 +56,7 @@ subtitle = ""
 <span style="color: #800000;">**(05/2019)** </span> **I defended my MS thesis** at Miami University and graduated!
 
 ```
-{{< figure library="true" src="thesisCelebration.jpg" lightbox="true" >}}
+< figure library="true" src="thesisCelebration.jpg" lightbox="true" width="500">
 ```
 
 <span style="color: #800000;">**(03/2019)** </span> Talk presented at the [OSGC Student Research Symposium](https://www.osgc.org).
