@@ -49,12 +49,12 @@ subtitle = ""
  css_class = ""
 +++
 
-<span style="color: #800000;">**(09/2019)** </span>I've begun my PhD at UChicago! And migrated to a new website design.
+<span style="color: #800000;">**(09/2019)** </span> **I've begun my PhD at UChicago**! And migrated to a new website design.
 
 <span style="color: #800000;">**(07/2019)** </span> I attended [Mirela Alistar's](personallab.org) Biochip Summer Workshop at CU Boulder.
 
 <span style="color: #800000;">**(05/2019)** </span> I defended my MS thesis at Miami University and graduated!
 
-![Post-defense celebration!](C:\Users\conta\OneDrive\Documents\GitHub\academic-kickstart\static\img\thesisCelebration.jpg)
+<span style="color: #800000;">**(03/2019)** </span> Talk presented at the [OSGC Student Research Symposium](https://www.osgc.org).
 
 <span style="color: #800000;">**(03/2019)** </span> My first journal paper on our [ER fluid-based haptic actuator is now live]([**https://journals.sagepub.com/doi/10.1177/1045389X19836172**](https://journals.sagepub.com/doi/10.1177/1045389X19836172))!
