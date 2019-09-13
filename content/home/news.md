@@ -56,7 +56,7 @@ subtitle = ""
 **(05/2019)** I defended my MS thesis at Miami University and graduated!
 
 ```
-{{< figure library="true" src="thesisCelebration.jpg" title="Post-defense celbration!" lightbox="true" >}}
+{{< figure library="true" src="thesisCelebration.jpg" title="Post-defense celebration!" width="200">}}
 ```
 
 **(03/2019)** My first journal paper on our [ER fluid-based haptic actuator is now live]([**https://journals.sagepub.com/doi/10.1177/1045389X19836172**](https://journals.sagepub.com/doi/10.1177/1045389X19836172))!
