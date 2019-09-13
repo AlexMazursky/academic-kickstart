@@ -53,7 +53,7 @@ subtitle = ""
 
 <span style="color: #800000;">**(07/2019)** </span> I attended [Mirela Alistar's](personallab.org) Biochip Summer Workshop at CU Boulder.
 
-<span style="color: #800000;">**(05/2019)** </span> I defended my MS thesis at Miami University and graduated!
+<span style="color: #800000;">**(05/2019)** </span> I **defended my MS thesis** at Miami University and graduated!
 
 <span style="color: #800000;">**(03/2019)** </span> Talk presented at the [OSGC Student Research Symposium](https://www.osgc.org).
 
