@@ -49,4 +49,4 @@ subtitle = ""
  css_class = ""
 +++
 
-(9/2019) I've begun my PhD at the University of Chicago.
+**(09/2019)** I've begun my PhD at UChicago!
