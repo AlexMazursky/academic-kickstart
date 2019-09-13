@@ -49,4 +49,3 @@ subtitle = ""
  css_class = ""
 +++
 
-**(09/2019)** I've begun my PhD at UChicago!
