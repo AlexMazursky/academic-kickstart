@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 35  # Order that this section will appear.
+weight = 25  # Order that this section will appear.
 
 title = "News"
 subtitle = ""
@@ -53,7 +53,7 @@ subtitle = ""
 
 <span style="color: #800000;">**(07/2019)** </span> I attended [Mirela Alistar's](personallab.org) Biochip Summer Workshop at CU Boulder.
 
-<span style="color: #800000;">**(05/2019)** </span> I **defended my MS thesis** at Miami University and graduated!
+<span style="color: #800000;">**(05/2019)** </span> **I defended my MS thesis** at Miami University and graduated!
 
 <span style="color: #800000;">**(03/2019)** </span> Talk presented at the [OSGC Student Research Symposium](https://www.osgc.org).
 
