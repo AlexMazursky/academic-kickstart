@@ -1,8 +1,3 @@
----
-typora-root-url: ..\..\static\img
----
-
-+++
 # A Demo section created with the Blank widget.
 # Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
@@ -59,9 +54,7 @@ subtitle = ""
 
 <span style="color: #800000;">**(05/2019)** </span> **I defended my MS thesis** at Miami University and graduated!
 
-```
 ![dinner](/img/thesisCelebration.jpg)
-```
 
 <span style="color: #800000;">**(03/2019)** </span> Talk presented at the [OSGC Student Research Symposium](https://www.osgc.org).
 
