@@ -14,8 +14,3 @@
 
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
-
-[[redirects]]
-  from = "https://www.alexjmazursky.com/"
-  to = "https://www.alexmazursky.com/"
-  status = 200
