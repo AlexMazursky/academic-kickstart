@@ -14,11 +14,3 @@
 
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
-
-# These rules will change if you change your site’s custom domains or HTTPS settings
-
-# Redirect domain aliases to primary domain
-https://www.alexjmazursky.com/* https://www.alexmazursky.com/:splat 301!
-
-# Optional: Redirect default Netlify subdomain to primary domain
-https://alexmazursky.netlify.com/* https://www.alexmazursky.com/:splat 301!
