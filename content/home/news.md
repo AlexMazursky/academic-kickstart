@@ -49,6 +49,8 @@ subtitle = ""
  css_class = ""
 +++
 
+<span style="color: #800000;">**(09/2019)** </span> I gave a brief talk on "Creating new interactive devices with smart materials" at our joint lab meeting with [Sihong Wang's group](https://voices.uchicago.edu/wanglab/).
+
 <span style="color: #800000;">**(09/2019)** </span> **I've begun my PhD at UChicago**! And migrated to a new website design.
 
 <span style="color: #800000;">**(07/2019)** </span> I attended [Mirela Alistar's](personallab.org) Biochip Summer Workshop at CU Boulder.
