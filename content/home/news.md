@@ -55,7 +55,7 @@ subtitle = ""
 
 <span style="color: #800000;">**(09/2019)** </span> **I've begun my PhD at UChicago**! And migrated to a new website design.
 
-<span style="color: #800000;">**(07/2019)** </span> I attended [Mirela Alistar's](https://personallab.org) Biochip Summer Workshop at CU Boulder.
+<span style="color: #800000;">**(07/2019)** </span> I attended [Mirela Alistar's](https://www.personallab.org) Biochip Summer Workshop at CU Boulder.
 
 <span style="color: #800000;">**(05/2019)** </span> **I defended my MS thesis** at Miami University and graduated!
 
