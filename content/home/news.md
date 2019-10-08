@@ -49,9 +49,9 @@ subtitle = ""
  css_class = ""
 +++
 
-<span style="color: #800000;">**(10/2019)** </span> My advisor [Jeong-Hoi Koo](https://miamioh.edu/cec/academics/departments/mme/about/faculty-and-staff/koo-bio/) presented our work at [ICAST 2019](http://icast2019.encs.concordia.ca/) in Montreal! Read our extended abstract [here](/publication/icast-2019-erhaptic/).
+<span style="color: #800000;">**(2019/10)** </span> My advisor [Jeong-Hoi Koo](https://miamioh.edu/cec/academics/departments/mme/about/faculty-and-staff/koo-bio/) presented our work at [ICAST 2019](http://icast2019.encs.concordia.ca/) in Montreal! Read our extended abstract [here](/publication/icast-2019-erhaptic/).
 
-<span style="color: #800000;">**(09/2019)** </span> I gave a brief talk on "Creating new interactive devices with smart materials" at our joint lab meeting with [Sihong Wang's group](https://voices.uchicago.edu/wanglab/).
+<span style="color: #800000;">**(2019/09)** </span> I gave a brief talk on "Creating new interactive devices with smart materials" at our joint lab meeting with [Sihong Wang's group](https://voices.uchicago.edu/wanglab/).
 
 <span style="color: #800000;">**(09/2019)** </span> **I've begun my PhD at UChicago**! And migrated to a new website design.
 
