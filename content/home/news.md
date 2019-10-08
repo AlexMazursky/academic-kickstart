@@ -49,19 +49,19 @@ subtitle = ""
  css_class = ""
 +++
 
-<span style="color: #800000;">**(2019/10)** </span> My advisor [Jeong-Hoi Koo](https://miamioh.edu/cec/academics/departments/mme/about/faculty-and-staff/koo-bio/) presented our work at [ICAST 2019](http://icast2019.encs.concordia.ca/) in Montreal! Read our extended abstract [here](/publication/icast-2019-erhaptic/).
+<span style="color: #800000;">**(10.2019)** </span> My advisor [Jeong-Hoi Koo](https://miamioh.edu/cec/academics/departments/mme/about/faculty-and-staff/koo-bio/) presented our work at [ICAST 2019](http://icast2019.encs.concordia.ca/) in Montreal! Read our extended abstract [here](/publication/icast-2019-erhaptic/).
 
-<span style="color: #800000;">**(2019/09)** </span> I gave a brief talk on "Creating new interactive devices with smart materials" at our joint lab meeting with [Sihong Wang's group](https://voices.uchicago.edu/wanglab/).
+<span style="color: #800000;">**(09.2019)** </span> I gave a brief talk on "Creating new interactive devices with smart materials" at our joint lab meeting with [Sihong Wang's group](https://voices.uchicago.edu/wanglab/).
 
-<span style="color: #800000;">**(09/2019)** </span> **I've begun my PhD at UChicago**! And migrated to a new website design.
+<span style="color: #800000;">**(09.2019)** </span> **I've begun my PhD at UChicago**! And migrated to a new website design.
 
-<span style="color: #800000;">**(07/2019)** </span> I attended [Mirela Alistar's](http://www.personallab.org) Biochip Summer Workshop at CU Boulder.
+<span style="color: #800000;">**(07.2019)** </span> I attended [Mirela Alistar's](http://www.personallab.org) Biochip Summer Workshop at CU Boulder.
 
-<span style="color: #800000;">**(05/2019)** </span> **I defended my MS thesis** at Miami University and graduated!
+<span style="color: #800000;">**(05.2019)** </span> **I defended my MS thesis** at Miami University and graduated!
 
 <img src="/img/thesisCelebration.jpg" width="420" lightbox="true">
 
-<span style="color: #800000;">**(03/2019)** </span> Talk presented at the [OSGC Student Research Symposium](https://www.osgc.org).
+<span style="color: #800000;">**(03.2019)** </span> Talk presented at the [OSGC Student Research Symposium](https://www.osgc.org).
 
-<span style="color: #800000;">**(03/2019)** </span> My first journal paper on our [ER fluid-based haptic actuator is now live](https://journals.sagepub.com/doi/10.1177/1045389X19836172)!
+<span style="color: #800000;">**(03.2019)** </span> My first journal paper on our [ER fluid-based haptic actuator is now live](https://journals.sagepub.com/doi/10.1177/1045389X19836172)!
 
