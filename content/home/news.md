@@ -49,6 +49,12 @@ subtitle = ""
  css_class = ""
 +++
 
+<span style="color: #800000;">**(01.2020)** </span> My second journal paper is now published in Smart Materials and Structures: [A compact and compliant electrorheological actuator for generating a wide range of haptic sensations](https://iopscience.iop.org/article/10.1088/1361-665X/ab710c)
+
+<span style="color: #800000;">**(11.2019)** </span> I kicked off the HCIntegration Lab's skillshare series by leading a discussion on mechanics of materials: 
+
+<img src="/img/skillshare_1.png" width="420" lightbox="true">
+
 <span style="color: #800000;">**(10.2019)** </span> I'm an SV at [UIST]( http://uist.acm.org/uist2019/ )! Let's talk new interfaces! 
 
 <span style="color: #800000;">**(10.2019)** </span> My advisor [Jeong-Hoi Koo](https://miamioh.edu/cec/academics/departments/mme/about/faculty-and-staff/koo-bio/) presented our work at [ICAST 2019](http://icast2019.encs.concordia.ca/) in Montreal! Read our extended abstract [here](/publication/icast-2019-erhaptic/).
