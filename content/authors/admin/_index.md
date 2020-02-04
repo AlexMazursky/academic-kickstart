@@ -78,3 +78,5 @@ I am a PhD student at the University of Chicago studying Computer Science. I wor
 
 Previously, I worked with [Prof. Jeong-Hoi Koo](http://miamioh.edu/cec/academics/departments/mme/about/faculty-and-staff/koo-bio/index.html) at Miami University, where I was a [Research Fellow for NASA and the Ohio Space Grant Consortium](https://www.osgc.org). I have worked as a visiting student researcher at Korea Advanced Institute of Science and Technology (KAIST) in the [Smart Systems and Structures Lab](http://sss.kaist.ac.kr/).
 
+Tangentially, I am interested in learning more about soft robotics, dynamical systems and artificial life. Outside of lab, I enjoy staying active through calisthenics and hiking.
+
