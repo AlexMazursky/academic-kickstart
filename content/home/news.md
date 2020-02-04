@@ -49,7 +49,7 @@ subtitle = ""
  css_class = ""
 +++
 
-<span style="color: #800000;">**(02.2020)** </span> I'm honored to have been named a CDAC Doctoral Fellow. Check out the project I am working on with Pedro Lopes and Sihong Wang:  [Health Monitoring Based on Wearable Sweat Sensors](https://cdac.uchicago.edu/research/health-monitoring-based-on-wearable-sweat-sensors/)
+<span style="color: #800000;">**(02.2020)** </span> I'm honored to have been named a [CDAC](https://cdac.uchicago.edu/) Doctoral Fellow. Check out the project I am working on with Pedro Lopes and Sihong Wang:  [Health Monitoring Based on Wearable Sweat Sensors](https://cdac.uchicago.edu/research/health-monitoring-based-on-wearable-sweat-sensors/)
 
 <span style="color: #800000;">**(01.2020)** </span> My second journal paper is now published in Smart Materials and Structures: [A compact and compliant electrorheological actuator for generating a wide range of haptic sensations](https://iopscience.iop.org/article/10.1088/1361-665X/ab710c)
 
