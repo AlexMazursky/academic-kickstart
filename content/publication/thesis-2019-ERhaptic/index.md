@@ -8,6 +8,6 @@ abstract: "Realistic haptic feedback is necessary to provide meaningful touch in
 featured: true
 publication: ""
 tags: ["ER fluid", "haptics"]
-url_pdf: "https://www.alexmazursky.com/publication/thesis-2019-erhaptic/thesis-2019-ERhaptic-compressed/"
+url_pdf: "https://www.alexmazursky.com/publication/thesis-2019-erhaptic/thesis-2019-ERhaptic-compressed.pdf"
 ---
 
