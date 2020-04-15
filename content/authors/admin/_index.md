@@ -78,5 +78,5 @@ I am a PhD student and [CDAC Fellow](https://cdac.uchicago.edu/research/health-m
 
 Previously, I worked with [Prof. Jeong-Hoi Koo](http://miamioh.edu/cec/academics/departments/mme/about/faculty-and-staff/koo-bio/index.html) at Miami University, where I was a [Research Fellow for NASA and the Ohio Space Grant Consortium](https://www.osgc.org). Additionally, I have worked as a visiting student researcher at Korea Advanced Institute of Science and Technology (KAIST) in the [Smart Systems and Structures Lab](http://sss.kaist.ac.kr/). 
 
-Tangential to my core research, I am interested in learning more about soft robotics, dynamical systems and artificial life. Outside of lab, I enjoy staying active through calisthenics and hiking.
+Tangential to my core research, I am interested in learning more about soft robotics, dynamical systems and artificial life. Outside of lab, I enjoy staying active through calisthenics, hiking and yoga.
 
