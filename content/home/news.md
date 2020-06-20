@@ -49,6 +49,8 @@ subtitle = ""
  css_class = ""
 +++
 
+<span style="color: #800000;">**(06.2020)** </span> First year of PhD courses done! I'm excited to deep dive into research this summer.
+
 <span style="color: #800000;">**(03.2020)** </span> In light of COVID-19, I'm doing research and taking classes from home this quarter. Stay well, everyone!
 
 <span style="color: #800000;">**(02.2020)** </span> I'm honored to have been named a [CDAC](https://cdac.uchicago.edu/) Doctoral Fellow. Check out the project I am working on with Pedro Lopes and Sihong Wang:  [Health Monitoring Based on Wearable Sweat Sensors](https://cdac.uchicago.edu/research/health-monitoring-based-on-wearable-sweat-sensors/)
