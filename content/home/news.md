@@ -49,6 +49,8 @@ subtitle = ""
  css_class = ""
 +++
 
+<span style="color: #800000;">**(09.2020)** </span> Made it through the CHI deadline!
+
 <span style="color: #800000;">**(06.2020)** </span> First year of PhD courses done! I'm excited to deep dive into research this summer.
 
 <span style="color: #800000;">**(03.2020)** </span> In light of COVID-19, I'm doing research and taking classes from home this quarter. Stay well, everyone!
