@@ -49,6 +49,10 @@ subtitle = ""
  css_class = ""
 +++
 
+<span style="color: #800000;">**(11.2020)** </span> I'm attending the Fall MRS Meeting for the first time! 
+
+<span style="color: #800000;">**(10.2020)** </span> I really enjoyed attending UIST virtually, was great to see friends!
+
 <span style="color: #800000;">**(09.2020)** </span> Made it through the CHI deadline!
 
 <span style="color: #800000;">**(06.2020)** </span> First year of PhD courses done! I'm excited to deep dive into research this summer.
