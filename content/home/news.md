@@ -49,6 +49,8 @@ subtitle = ""
  css_class = ""
 +++
 
+<span style="color: #800000;">**(12.2020)** </span> I had the first paper of my PhD accepted to CHI 2021! More details to come!
+
 <span style="color: #800000;">**(11.2020)** </span> I'm attending the Fall MRS Meeting for the first time! 
 
 <span style="color: #800000;">**(10.2020)** </span> I really enjoyed attending UIST virtually, was great to see friends!
