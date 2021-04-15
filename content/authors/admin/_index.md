@@ -74,11 +74,11 @@ email: ""
 # - Visitors
 ---
 
-I am a PhD student and [CDAC Fellow](https://cdac.uchicago.edu/research/health-monitoring-based-on-wearable-sweat-sensors/) at the University of Chicago studying Computer Science. I work with [Prof. Pedro Lopes](http://plopes.org) in the [Human Computer Integration Lab](https://lab.plopes.org/) and am broadly interested in Human-Computer Interaction (HCI), with focus on creating novel interaction through haptics for new user experiences. Grounded by a background in mechanical engineering, I like to operate at the intersection of HCI and materials science to unlock new interaction possibilities. Check out my recent work on [smart fluids that transition between liquid and solid behavior for providing haptic feedback]( https://iopscience.iop.org/article/10.1088/1361-665X/ab710c )!
+I am a PhD student and [CDAC Fellow](https://cdac.uchicago.edu/research/health-monitoring-based-on-wearable-sweat-sensors/) at the University of Chicago studying Computer Science. I work with [Prof. Pedro Lopes](http://plopes.org) in the [Human Computer Integration Lab](https://lab.plopes.org/) and am broadly interested in Human-Computer Interaction (HCI), with focus on creating haptic devices enabled by responsive materials. Grounded by a background in mechanical engineering, I like to operate at the intersection of HCI and materials science to unlock new interaction possibilities. Check out my recent work on [smart fluids that transition between liquid and solid behavior for providing haptic feedback]( https://iopscience.iop.org/article/10.1088/1361-665X/ab710c )!
 
 Previously, I worked with [Prof. Jeong-Hoi Koo](http://miamioh.edu/cec/academics/departments/mme/about/faculty-and-staff/koo-bio/index.html) at Miami University, where I was a [Research Fellow for NASA and the Ohio Space Grant Consortium](https://www.osgc.org). Additionally, I have worked as a visiting student researcher at Korea Advanced Institute of Science and Technology (KAIST) in the [Smart Systems and Structures Lab](http://sss.kaist.ac.kr/). 
 
 Tangential to my core research, I am interested in learning more about soft robotics, human-robot interaction and artificial life. 
 
-Outside of lab, I enjoy staying active through calisthenics, kettlebell sport and hiking.
+Outside of lab, I enjoy staying active through calisthenics, yoga, kettlebell training and hiking. Additionally, I am always trying to learn more about investing.
 
