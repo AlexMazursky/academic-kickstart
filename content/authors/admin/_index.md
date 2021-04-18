@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Alex J. Mazursky
+name: Alex Mazursky
 
 # Username (this should match the folder name)
 authors:
