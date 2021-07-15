@@ -49,6 +49,8 @@ subtitle = ""
  css_class = ""
 +++
 
+<span style="color: #800000;">**(07.2021)** </span> [MagnetIO](https://lab.plopes.org/published/CHI21-MagnetIO.pdf) will also be in [SIGGRAPH's Emerging Technologies](https://s2021.siggraph.org/full-program/?filter1=evtt117) program next month! Come check it out, along with another awesome work from our group, [Touch&Fold](https://lab.plopes.org/published/2021-CHI-TouchFold.pdf)!
+
 <span style="color: #800000;">**(05.2021)** </span>I'll be presenting [MagnetIO](https://lab.plopes.org/published/CHI21-MagnetIO.pdf) at CHI 2021! Check out the [pre-recorded talk here](https://www.youtube.com/watch?v=bfFyFoBgGFg). Grateful to my collaborators for all their help.
 
 <span style="color: #800000;">**(12.2020)** </span>I had the first paper of my PhD accepted to CHI 2021! More details to come!
