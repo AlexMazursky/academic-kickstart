@@ -49,6 +49,8 @@ subtitle = ""
  css_class = ""
 +++
 
+<span style="color: #800000;">**(10.2021)** </span> Celebrating a paper submission to HRI! 
+
 <span style="color: #800000;">**(09.2021)** </span> Submitted a paper to CHI! Grateful for all the support of my labmates and collaborators in these hectic times. Fingers crossed.
 
 <span style="color: #800000;">**(08.2021)** </span> We published an extension of my MS work in Applied Sciences with greater focus on integrating sensing into our ER fluid-based haptic actuator, which was recognized as a Feature Paper by the editor: [Design and Experimental Evaluation of an Electrorheological Haptic Module with Embedded Sensing ](https://www.mdpi.com/2076-3417/11/16/7723)
