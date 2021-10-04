@@ -79,7 +79,7 @@ I am a PhD student at the University of Chicago studying Computer Science. I wor
 
 Previously, I worked with [Prof. Jeong-Hoi Koo](http://miamioh.edu/cec/academics/departments/mme/about/faculty-and-staff/koo-bio/index.html) at Miami University, where I studied smart fluids for haptic feedback as a [Research Fellow for NASA and the Ohio Space Grant Consortium](https://www.osgc.org). Additionally, I have worked as a visiting student researcher at Korea Advanced Institute of Science and Technology (KAIST) in the [Smart Systems and Structures Lab](http://sss.kaist.ac.kr/). 
 
-Tangential to my core research, I enjoy learning more about soft robotics, human-robot interaction and artificial life. 
+Tangential to my core research, I enjoy learning more about soft robotics, mechanics of materials, and human-robot interaction. 
 
-Outside of lab, I stay active through calisthenics, yoga, kettlebell training and hiking. Additionally, I am always trying to learn more about investing.
+Outside of lab, I enjoy staying fit with kettlebells, bodyweight training, and biking. To relax, I hang out with my partner and our two cats​ :smile_cat:(Migo and Merlot).
 
