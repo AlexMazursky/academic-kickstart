@@ -5,7 +5,7 @@ publishDate: 2021-08-22
 authors: ["Alex Mazursky", "Jeong-Hoi Koo", "Taylor Mason", "Sam-Yong Woo", "Tae-Heon Yang"]
 publication_types: ["2"]
 abstract: "We present a miniature haptic module based on electrorheological ﬂuid, designed for conveying combined stiffness and vibrotactile sensations at a small scale. Haptic feedback is produced through electrorheological ﬂuid’s controllable resistive force and varies with the actuator’s deformation. To demonstrate the proposed actuator’s feedback in realistic applications, a method for measuring the actuator’s deformation must be implemented for active control. To this end, in this study, we incorporate a sensor design based on a bend-sensitive resistive ﬁlm to the ER haptic actuator. The combined actuator and sensor module was tested for its ability to simultaneously actuate and sense the actuator’s state under indentation. The results show that the bend sensor can accurately track the actuator’s displacement over its stroke. Thus, the proposed sensor may enable control of the output resistive force according to displacement, which may lead to more informed and engaging combined kinesthetic and tactile feedback."
-summary: "We closed the loop on a button-type actuator based on ER fluid's tunable viscosity, enabling control of its resistive force to give engaging stiffness and tactile feedback."
+summary: "We closed the loop on a button-type actuator based on ER fluid's tunable viscosity, enabling control of its resistive force to produce engaging stiffness and vibrotactile feedback."
 featured: false
 publication: "Applied Sciences"
 tags: ["haptics", "ER fluid", "tactile sensor"]
