@@ -10,6 +10,5 @@ publication: "*Applied Sciences*"
 tags: ["haptics", "ER fluid", "tactile sensor"]
 url_pdf: "https://www.mdpi.com/2076-3417/11/16/7723"
 doi: "https://doi.org/10.3390/app11167723"
-venue: "https://www.mdpi.com/2076-3417/11/16/7723"
 ---
 
