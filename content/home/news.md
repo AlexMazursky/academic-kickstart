@@ -51,7 +51,7 @@ subtitle = ""
 
 <span style="color: #800000;">**(10.2021)** </span> Celebrating a paper submission to HRI! 
 
-​	A collaborative project ("A stretchable and strain-unperturbed pressure sensor for motion-interference-free tactile monitoring on skins) led by [Sihong Wang's group](https://voices.uchicago.edu/wanglab/) was accepted to Science Advances! 
+A collaborative project ("A stretchable and strain-unperturbed pressure sensor for motion-interference-free tactile monitoring on skins) led by [Sihong Wang's group](https://voices.uchicago.edu/wanglab/) was accepted to Science Advances! 
 
 <span style="color: #800000;">**(09.2021)** </span> Submitted a paper to CHI! Grateful for all the support of my labmates and collaborators in these hectic times. Fingers crossed.
 
