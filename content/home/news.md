@@ -51,7 +51,9 @@ subtitle = ""
 
 <span style="color: #800000;">**(10.2021)** </span> Celebrating a paper submission to HRI! 
 
-A collaborative project ("A stretchable and strain-unperturbed pressure sensor for motion-interference-free tactile monitoring on skins) led by [Sihong Wang's group](https://voices.uchicago.edu/wanglab/) was accepted to Science Advances! 
+A collaborative project ("A stretchable and strain-unperturbed pressure sensor for motion-interference-free tactile monitoring on skins) led by [Sihong Wang's group](https://voices.uchicago.edu/wanglab/) was accepted to Science Advances!
+
+UIST was awesome this year -- really enjoyed connecting with so many people working on exciting projects. Let's continue to connect and collaborate!
 
 Received great news that a SEED proposal put together by Pedro and I has been funded by the [Chicago Materials Research Center (MRSEC)](https://mrsec.uchicago.edu/)!
 
