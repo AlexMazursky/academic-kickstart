@@ -49,7 +49,7 @@ subtitle = ""
  css_class = ""
 +++
 
-<span style="color: #800000;">**(3.2022)** </span> Excited to be attending the upcoming CHI in person for the first time! Our lab is getting ready!
+<span style="color: #800000;">**(03.2022)** </span> Excited to be attending the upcoming CHI in person for the first time! Our lab is getting ready!
 
 <img src="/img/lab-photo-for-chi.jpg" width="420" lightbox="true">
 
