@@ -49,9 +49,13 @@ subtitle = ""
  css_class = ""
 +++
 
-<span style="color: #800000;">**(03.2022)** </span> Excited to be attending the upcoming CHI in person for the first time! Our lab is getting ready!
+<span style="color: #800000;">**(05.2022)** </span> Excited to be attending the upcoming CHI in person for the first time! Please feel free to reach out and chat -- can't wait to meet soon!
+
+Our lab is getting ready!
 
 <img src="/img/lab-photo-for-chi.jpg" width="420" lightbox="true">
+
+<span style="color: #800000;">**(04.2022)** </span> Celebrating some paper submissions this month, fingers crossed.
 
 <span style="color: #800000;">**(10.2021)** </span> Celebrating a paper submission! 
 
