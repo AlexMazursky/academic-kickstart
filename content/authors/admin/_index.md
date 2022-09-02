@@ -81,5 +81,5 @@ Previously, I worked with [Prof. Jeong-Hoi Koo](http://miamioh.edu/cec/academics
 
 Tangential to my core research, I enjoy learning more about soft robotics, mechanics of materials, and human-robot interaction. 
 
-Outside of lab, I enjoy pushing myself with kettlebells and cycling. Lately, I've been playing a lot of chess. To relax, I hang out with my partner and our two cats​ :smile_cat:(Migo and Merlot).
+Outside of lab, I enjoy biking (and wrenching on bikes) and spending time in the gym. Lately, I've been playing a lot of chess. To relax, I hang out with my partner and our two cats​ :smile_cat:(Migo and Merlot).
 
