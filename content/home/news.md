@@ -49,6 +49,10 @@ subtitle = ""
  css_class = ""
 +++
 
+<span style="color: #800000;">**(01.2023)** </span> I kicked off the new year by giving a talk about ongoing work at UChicago's People and Tech Seminar.
+
+<img src="/img/pat-talk.jpg" width="420" lightbox="true">
+
 <span style="color: #800000;">**(09.2022)** </span> I presented new work at IEEE RO-MAN 2022. Check out our paper: [Physical Touch from a Robot Caregiver: Examining Factors that Shape Patient Experience](https://www.alexmazursky.com/publication/roman-2022-hrtouch/ROMAN-2022-HRTouch.pdf)
 
 <span style="color: #800000;">**(05.2022)** </span> Excited to be attending the upcoming CHI in person for the first time! Please feel free to reach out and chat if you're around -- can't wait to meet soon!
