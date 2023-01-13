@@ -49,7 +49,7 @@ subtitle = ""
  css_class = ""
 +++
 
-<span style="color: #800000;">**(01.2023)** </span> I kicked off the new year by giving a talk about ongoing work at UChicago's People and Tech Seminar.
+<span style="color: #800000;">**(01.2023)** </span> I kicked off the new year by giving a talk at UChicago's People and Tech Seminar about the future of haptics.
 
 <img src="/img/pat-talk.jpg" width="420" lightbox="true">
 
