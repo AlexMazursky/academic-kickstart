@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true #Activate this widget? true/false
 weight = 22  # Order that this section will appear.
 
-title = "Publications on my Topic"
+title = "Featured Publications"
 subtitle = ""
 
 [content]
@@ -16,7 +16,7 @@ subtitle = ""
   page_type = "publication"
 
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 0
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"

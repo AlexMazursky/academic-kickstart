@@ -6,7 +6,7 @@ authors: ["Qi Su", "Q. Zou", "Yang Li", "Yuzhen Chen", "Shan-Yuan Teng", "Jane T
 publication_types: ["2"]
 abstract: "Existing types of stretchable pressure sensors have an inherent limitation of the interference of the stretching to the pressure sensing accuracy. We present a new design concept for a highly stretchable and highly sensitive pressure sensor that can provide unaltered sensing performance under stretching, which is realized through the creation of locally and biaxially stiffened micro-pyramids made from an ionic elastomer. "
 summary: "Science Advances 2021"
-featured: true
+featured: false
 publication: "Science Advances"
 tags: ["tactile sensor", "soft sensor", "stretchable electronics"]
 url_pdf: "https://www.science.org/doi/10.1126/sciadv.abi4563"
