@@ -49,6 +49,8 @@ subtitle = ""
  css_class = ""
 +++
 
+<span style="color: #800000;">**(05.2023)** </span> I start an internship with Meta Reality Labs working on haptics research next month (June-Nov)! If you're in the PNW, let's connect. 
+
 <span style="color: #800000;">**(01.2023)** </span> I kicked off the new year by giving a talk at UChicago's People and Tech Seminar about ongoing work on the future of haptics.
 
 <img src="/img/pat-talk.jpg" width="420" lightbox="true">
