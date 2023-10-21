@@ -77,11 +77,11 @@ email: ""
 
 I am a PhD student at the University of Chicago studying Computer Science. I work with [Prof. Pedro Lopes](http://plopes.org) in the [Human Computer Integration Lab](https://lab.plopes.org/) and am broadly interested in Human-Computer Interaction (HCI), with focus on creating new haptic devices. Specifically, I investigate unconventional approaches to engineering haptic actuators from the ground up. I build haptic devices that can overlay tactile feedback onto any number of surfaces in the environment to achieve “ubiquitous haptics." In my recent work, I’ve aimed to apply this idea to a range of wearable actuators that provide feedback such as vibration, variable friction, & thermal rendering. Check out my recent CHI Paper: [MagnetIO, a wearable haptic actuator and battery-free vibrating patches to enable ubiquitous haptics!](https://www.alexmazursky.com/publication/chi-2021-magnetio/CHI-2021-MagnetIO.pdf)
 
-Currently (June-Nov 2023), I am on internship at Meta Reality Labs as a haptics researcher. 
+Currently (June-Nov 2023), I am interning at Meta Reality Labs Research as a haptics research scientist intern. 
 
 Previously, I worked with [Prof. Jeong-Hoi Koo](http://miamioh.edu/cec/academics/departments/mme/about/faculty-and-staff/koo-bio/index.html) at Miami University, where I studied smart fluids for haptic feedback as a [Research Fellow for NASA and the Ohio Space Grant Consortium](https://www.osgc.org). Additionally, I have worked as a visiting student researcher at Korea Advanced Institute of Science and Technology (KAIST) in the [Smart Systems and Structures Lab](http://sss.kaist.ac.kr/). 
 
 Tangential to my core research, I enjoy learning more about soft robotics, mechanics of materials, and human-robot interaction. 
 
-Outside of lab, I enjoy biking (and wrenching on bikes) and spending time in the gym. Lately, I've been playing a lot of chess. To relax, I hang out with my partner and our two cats​ :smile_cat:(Migo and Merlot).
+Outside of lab, I enjoy biking (and wrenching on bikes), running, and spending time in the gym. To relax, I hang out with my partner and our two cats​ :smile_cat:(Migo and Merlot).
 
