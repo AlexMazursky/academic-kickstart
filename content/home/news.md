@@ -49,6 +49,8 @@ subtitle = ""
  css_class = ""
 +++
 
+<span style="color: #800000;">**(11.2023)** </span> I'm back from an amazing internship at Meta and had a great time attending UIST, where I presented new work: [ThermalRouter: Enabling Users to Design Thermally-Sound Devices](https://www.alexmazursky.com/publication/uist-2023-thermalrouter/UIST-2023-ThermalRouter.pdf).
+
 <span style="color: #800000;">**(05.2023)** </span> I start an internship with Meta Reality Labs working on haptics research next month (June-Nov)! If you're in the PNW, let's connect. 
 
 <span style="color: #800000;">**(01.2023)** </span> I kicked off the new year by giving a talk at UChicago's People and Tech Seminar about ongoing work on the future of haptics.
