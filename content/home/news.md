@@ -49,6 +49,19 @@ subtitle = ""
  css_class = ""
 +++
 
+<span style="color: #800000;">**(04.2024)** </span> I demo'd our new CHI paper Stick&Slip at the Haptics Symposium in Long Beach, CA.
+
+<img src="/img/stick-slip-demo.png" width="420" lightbox="true">
+
+<span style="color: #800000;">**(03.2024)** </span> I presented [ThermalGrasp](https://www.alexmazursky.com/publication/ieee-vr-2024-thermalgrasp/ieee-VR-2024-ThermalGrasp.pdf) at IEEE VR in Orlando, FL.
+
+<img src="/img/thermalgrasp-talk.png" width="420" lightbox="true">
+
+We also wrapped up teaching engineering class.
+
+<img src="/img/teaching-engineering.jpg" width="420" lightbox="true">
+
+
 <span style="color: #800000;">**(02.2024)** </span> I'll be at a few conferences this spring (CHI, Haptics Symposium, & IEEE VR!) presenting some new haptics work (details coming soon) -- let's connect!
 
 <span style="color: #800000;">**(11.2023)** </span> I'm back from an amazing internship at Meta and had a great time attending UIST, where I presented new work: [ThermalRouter: Enabling Users to Design Thermally-Sound Devices](https://www.alexmazursky.com/publication/uist-2023-thermalrouter/UIST-2023-ThermalRouter.pdf).
