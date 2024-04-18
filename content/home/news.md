@@ -51,15 +51,15 @@ subtitle = ""
 
 <span style="color: #800000;">**(04.2024)** </span> I demo'd our new CHI paper Stick&Slip at the Haptics Symposium in Long Beach, CA.
 
-<img src="/img/stick-slip-demo.png" width="420" lightbox="true">
+<img src="/img/stick-slip-demo.png" width="600" lightbox="true">
 
 <span style="color: #800000;">**(03.2024)** </span> I presented [ThermalGrasp](https://www.alexmazursky.com/publication/ieee-vr-2024-thermalgrasp/ieee-VR-2024-ThermalGrasp.pdf) at IEEE VR in Orlando, FL.
 
-<img src="/img/thermalgrasp-talk.png" width="420" lightbox="true">
+<img src="/img/thermalgrasp-talk.png" width="600" lightbox="true">
 
 We also wrapped up teaching engineering class.
 
-<img src="/img/teaching-engineering.jpg" width="420" lightbox="true">
+<img src="/img/teaching-engineering.jpg" width="600" lightbox="true">
 
 
 <span style="color: #800000;">**(02.2024)** </span> I'll be at a few conferences this spring (CHI, Haptics Symposium, & IEEE VR!) presenting some new haptics work (details coming soon) -- let's connect!
@@ -70,7 +70,7 @@ We also wrapped up teaching engineering class.
 
 <span style="color: #800000;">**(01.2023)** </span> I kicked off the new year by giving a talk at UChicago's People and Tech Seminar about ongoing work on the future of haptics.
 
-<img src="/img/pat-talk.jpg" width="420" lightbox="true">
+<img src="/img/pat-talk.jpg" width="600" lightbox="true">
 
 <span style="color: #800000;">**(09.2022)** </span> I presented new work at IEEE RO-MAN 2022. Check out our paper: [Physical Touch from a Robot Caregiver: Examining Factors that Shape Patient Experience](https://www.alexmazursky.com/publication/roman-2022-hrtouch/ROMAN-2022-HRTouch.pdf)
 
@@ -78,7 +78,7 @@ We also wrapped up teaching engineering class.
 
 Our lab is getting ready!
 
-<img src="/img/lab-photo-for-chi.jpg" width="420" lightbox="true">
+<img src="/img/lab-photo-for-chi.jpg" width="600" lightbox="true">
 
 <span style="color: #800000;">**(04.2022)** </span> Celebrating some paper submissions this month, fingers crossed.
 
@@ -116,7 +116,7 @@ Received great news that a SEED proposal put together by Pedro and I has been fu
 
 <span style="color: #800000;">**(11.2019)** </span>I kicked off the HCIntegration Lab's skillshare series by leading a discussion on mechanics of materials: 
 
-<img src="/img/skillshare_1.png" width="420" lightbox="true">
+<img src="/img/skillshare_1.png" width="600" lightbox="true">
 
 <span style="color: #800000;">**(10.2019)** </span>I'm an SV at [UIST]( http://uist.acm.org/uist2019/ )! Let's talk new interfaces! 
 
@@ -130,7 +130,7 @@ Received great news that a SEED proposal put together by Pedro and I has been fu
 
 <span style="color: #800000;">**(05.2019)** </span>**I defended my MS thesis** at Miami University and graduated!
 
-<img src="/img/thesisCelebration.jpg" width="420" lightbox="true">
+<img src="/img/thesisCelebration.jpg" width="600" lightbox="true">
 
 <span style="color: #800000;">**(03.2019)** </span>Talk presented at the [OSGC Student Research Symposium](https://www.osgc.org).
 
