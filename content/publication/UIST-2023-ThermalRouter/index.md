@@ -11,5 +11,8 @@ publication: "*ACM UIST 2023*"
 tags: ["thermal, heat, interactive assistant, engineering, CAD"]
 url_pdf: ""
 doi: "10.1145/3586183.3606747"
+url_video: "https://youtu.be/PbasORkPn5w"
+url_talk: "https://youtu.be/yhA_gx_l5-M"
+
 ---
 
