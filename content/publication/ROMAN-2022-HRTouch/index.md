@@ -10,6 +10,7 @@ featured: false
 publication: "*IEEE Ro-MAN 2022*"
 tags: ["human-robot interaction", "affective touch"]
 url_pdf: ""
-doi: ""
+doi: "10.1109/RO-MAN53752.2022.9900549"
+
 ---
 

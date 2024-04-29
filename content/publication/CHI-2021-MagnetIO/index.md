@@ -11,5 +11,7 @@ publication: "*ACM CHI 2021*"
 tags: ["soft magnets", "ubiquitous haptics", "fabrication"]
 url_pdf: ""
 doi: "10.1145/3411764.3445543"
+url_talk: "https://www.youtube.com/watch?v=bfFyFoBgGFg"
+url_video: "https://www.youtube.com/watch?v=9bm7lBhwhwY"
 ---
 
