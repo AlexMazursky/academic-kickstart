@@ -11,5 +11,7 @@ publication: "*IEEE VR 2024*"
 tags: ["thermal feedback, haptic feedback, virtual reality, wearables"]
 url_pdf: ""
 doi: "10.1109/VR58804.2024.00056"
+url_talk: "https://youtu.be/WOxovqebkOQ"
+url_video: "https://youtu.be/GgiQoOeP-nI"
 ---
 
