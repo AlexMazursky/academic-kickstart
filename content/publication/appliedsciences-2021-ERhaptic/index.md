@@ -5,7 +5,7 @@ publishDate: 2021-08-22
 
 authors: [
 "[Alex Mazursky](/)", 
-"[Jeong-Hoi Koo](https://miamioh.edu/profiles/cec/jeong-hoi-koo.html)"
+"[Jeong-Hoi Koo](https://miamioh.edu/profiles/cec/jeong-hoi-koo.html)",
 "[Taylor Mason](https://www.linkedin.com/in/taylor-mason-1a3800131/)", 
 "[Sam-Yong Woo](https://www.kriss.re.kr/eng/)", 
 "[Tae-Heon Yang](https://sites.google.com/view/i-smlab/people/prof-tae-heon-yang?authuser=0)"
