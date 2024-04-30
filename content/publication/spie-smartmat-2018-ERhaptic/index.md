@@ -5,7 +5,7 @@ publishDate: 2019-09-12T19:31:12.159405Z
 
 authors: [
 "[Alex Mazursky](/)", 
-"[Jeong-Hoi Koo](https://miamioh.edu/profiles/cec/jeong-hoi-koo.html)"
+"[Jeong-Hoi Koo](https://miamioh.edu/profiles/cec/jeong-hoi-koo.html)",
 "[Tae-Heon Yang](https://sites.google.com/view/i-smlab/people/prof-tae-heon-yang?authuser=0)"
 ]
 
