@@ -18,10 +18,9 @@ authors: [
 "[Alex Mazursky](/)", 
 "Jie Xu", 
 "[Lihua Jin](https://samueli.ucla.edu/people/lihua-jin/)", 
-"[Pedro Lopes](http://plopes.org/)"
+"[Pedro Lopes](http://plopes.org/)",
 "[Sihong Wang](https://pme.uchicago.edu/faculty/sihong-wang)"
 ]
-
 publication_types: ["2"]
 abstract: "Existing types of stretchable pressure sensors have an inherent limitation of the interference of the stretching to the pressure sensing accuracy. We present a new design concept for a highly stretchable and highly sensitive pressure sensor that can provide unaltered sensing performance under stretching, which is realized through the creation of locally and biaxially stiffened micro-pyramids made from an ionic elastomer. "
 summary: "Science Advances 2021"
