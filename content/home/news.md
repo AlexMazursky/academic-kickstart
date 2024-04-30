@@ -49,7 +49,7 @@ subtitle = ""
  css_class = ""
 +++
 
-<span style="color: #800000;">**(04.2024)** </span> I demo'd our new CHI paper Stick&Slip at the Haptics Symposium in Long Beach, CA.
+<span style="color: #800000;">**(04.2024)** </span> I demo'd our new [CHI paper Stick&Slip](https://www.alexmazursky.com/publication/chi-2024-stickslip/chi-2024-stick&slip.pdf) at the Haptics Symposium in Long Beach, CA.
 
 <img src="/img/stick-slip-demo.png" width="600" lightbox="true">
 
