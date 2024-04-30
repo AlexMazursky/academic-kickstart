@@ -4,7 +4,7 @@ date: 2019-10-01
 publishDate: 2019-09-12T19:31:12.200302Z
 authors: [
 "[Alex Mazursky](/)", 
-"[Tae-Heon Yang](https://sites.google.com/view/i-smlab/people/prof-tae-heon-yang?authuser=0)"
+"[Tae-Heon Yang](https://sites.google.com/view/i-smlab/people/prof-tae-heon-yang?authuser=0)",
 "[Sam-Yong Woo](https://www.kriss.re.kr/eng/)", 
 "[Jeong-Hoi Koo](https://miamioh.edu/profiles/cec/jeong-hoi-koo.html)"
 ]
