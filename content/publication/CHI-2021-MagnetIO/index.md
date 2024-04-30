@@ -5,7 +5,7 @@ publishDate: 2021-04-10
 authors: [
 "[Alex Mazursky](/)", 
 "[Shan-Yuan Teng](http://tengshanyuan.info/)", 
-"[Romain Nith](https://romainnith.com/https://romainnith.com/)", 
+"[Romain Nith](https://romainnith.com/)", 
 "[Pedro Lopes](http://plopes.org/)"
 ]
 publication_types: ["1"]

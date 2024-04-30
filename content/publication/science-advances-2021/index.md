@@ -9,7 +9,7 @@ authors: [
 "Yuzhen Chen", 
 "[Shan-Yuan Teng](http://tengshanyuan.info/)", 
 "Jane Tunde Kelleher", 
-"[Romain Nith](https://romainnith.com/https://romainnith.com/)", 
+"[Romain Nith](https://romainnith.com/)", 
 "Ping Cheng", 
 "Nan Li", 
 "Wei Liu", 
