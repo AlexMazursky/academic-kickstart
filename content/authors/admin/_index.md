@@ -77,6 +77,8 @@ email: ""
 
 I am a PhD student at the University of Chicago studying Computer Science. I work with [Prof. Pedro Lopes](http://plopes.org) in the [Human Computer Integration Lab](https://lab.plopes.org/) and am broadly interested in Human-Computer Interaction (HCI), with focus on creating new haptic devices. **My vision is to push haptics toward ubiquity.** I design devices that give dynamic haptics to objects and surfaces that would otherwise be passive. Specifically, I investigate unconventional approaches to engineering haptic actuators from the ground up. In my recent work, I’ve applied this idea to a range of wearables that augment the environment with various haptic sensations, such as [vibration](https://www.alexmazursky.com/publication/chi-2021-magnetio/), [friction](https://www.alexmazursky.com/publication/chi-2024-stickslip/), & [temperature](https://www.alexmazursky.com/publication/ieee-vr-2024-thermalgrasp/). Check out my recent CHI'24 Paper: [Stick&Slip, a wearable approach to alter the friction of everyday objects using liquid coatings on the fingerpad!](https://www.alexmazursky.com/publication/chi-2024-stickslip/chi-2024-stick&slip.pdf)
 
+{{< youtube id="UxqNf1BSIoo" >}}
+
 I plan to graduate in the Summer of 2025 -- **I am open to new opportunities in research and engineering!**
 
 This past summer, I worked at Meta (Reality Labs Research) as a haptics research scientist intern. 
