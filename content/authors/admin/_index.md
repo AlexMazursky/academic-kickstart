@@ -77,6 +77,8 @@ email: ""
 
 I am a PhD student at the University of Chicago studying Computer Science. I work with [Prof. Pedro Lopes](http://plopes.org) in the [Human Computer Integration Lab](https://lab.plopes.org/) and am broadly interested in Human-Computer Interaction (HCI), with focus on creating new haptic devices. Specifically, I investigate unconventional approaches to engineering haptic actuators from the ground up. I build haptic devices that can overlay tactile feedback onto any number of surfaces in the environment to achieve “ubiquitous haptics." In my recent work, I’ve aimed to apply this idea to a range of wearable actuators that provide feedback such as vibration, variable friction, & thermal rendering. Check out my recent CHI'24 Paper: [Stick&Slip, a wearable approach to alter the friction of everyday objects using liquid coatings on the fingerpad!](https://www.alexmazursky.com/publication/chi-2024-stickslip/chi-2024-stick&slip.pdf)
 
+I plan to graduate in the Summer of 2025 -- **I am open to new opportunities in research and engineering!**
+
 This past summer, I worked at Meta (Reality Labs Research) as a haptics research scientist intern. 
 
 Previously, I worked with [Prof. Jeong-Hoi Koo](http://miamioh.edu/cec/academics/departments/mme/about/faculty-and-staff/koo-bio/index.html) at Miami University, where I studied smart fluids for haptic feedback as a [Research Fellow for NASA and the Ohio Space Grant Consortium](https://www.osgc.org). Additionally, I have worked as a visiting student researcher at Korea Advanced Institute of Science and Technology (KAIST) in the [Smart Systems and Structures Lab](https://sshs.kaist.ac.kr/). 
