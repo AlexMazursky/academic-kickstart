@@ -17,7 +17,7 @@ abstract: "Users often 3D model enclosures that interact with significant heat s
 summary: "ACM UIST 2023"
 featured: true
 publication: "*ACM UIST 2023*"
-tags: ["thermal, heat, interactive assistant, engineering, CAD"]
+tags: ["thermal", "heat", "interactive assistant", "engineering", "CAD"]
 url_pdf: ""
 doi: "10.1145/3586183.3606747"
 url_talk: "https://youtu.be/yhA_gx_l5-M"
