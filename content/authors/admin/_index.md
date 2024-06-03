@@ -48,18 +48,18 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/main_cv.pdf
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:alexmazursky@uchicago.edu'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/alexjmazursky
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=8LrZ5ogAAAAJ&hl=en&oi=ao
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/alexjmazursky
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/alexmazursky/
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:alexmazursky@uchicago.edu'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
