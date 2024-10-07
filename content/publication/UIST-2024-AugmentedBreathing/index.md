@@ -1,11 +1,11 @@
 ---
 title: "Augmented Breathing via Thermal Feedback in the Nose"
 date: 2024-10-7
-publishDate: 2023-10-7
+publishDate: 2024-10-7
 authors: [
 "[Jas Brooks](http://jasbrooks.net/)",
 "[Alex Mazursky](/)",
-"[Janice Hixon]()",
+"Janice Hixon",
 "[Pedro Lopes](http://plopes.org/)"
 ]
 
