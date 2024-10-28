@@ -49,7 +49,9 @@ subtitle = ""
  css_class = ""
 +++
 
-<span style="color: #800000;">**(10.2024)** </span> I demo'd our new paper [Augmented Breathing](https://www.alexmazursky.com/publication/uist-2024-augmentedbreathing/UIST-2024-AugmentedBreathing.pdf) with [Jas](https://jasbrooks.net/) at UIST 2024 in Pittsburgh. 
+<span style="color: #800000;">**(10.2024)** </span> I demo'd our new paper [Augmented Breathing](https://www.alexmazursky.com/publication/uist-2024-augmentedbreathing/UIST-2024-AugmentedBreathing.pdf) with [Jas](https://jasbrooks.net/) at UIST 2024 in Pittsburgh. Also got to demo a variety of work at the southside science festival at UChicago!
+
+<img src="/img/demos-1024.png" width="600" lightbox="true">
 
 <span style="color: #800000;">**(04.2024)** </span> I demo'd our new [CHI paper Stick&Slip](https://www.alexmazursky.com/publication/chi-2024-stickslip/chi-2024-stick&slip.pdf) at the Haptics Symposium in Long Beach, CA.
 
