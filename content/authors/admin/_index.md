@@ -85,6 +85,8 @@ My work has been published in the top venues in human-computer interaction. Chec
 
 {{< youtube id="UxqNf1BSIoo" >}}
 
+In addition to my work on haptics, I have explored [digital fabrication](https://www.alexmazursky.com/publication/uist-2023-thermalrouter/) as well as [robotics](https://www.alexmazursky.com/publication/roman-2022-hrtouch/). 
+
 Previously, I worked at Meta (Reality Labs Research) as a haptics research scientist intern. 
 
 Outside of lab, I enjoy biking (and wrenching on bikes), running, and spending time in the gym. To relax, I hang out with my partner and our two cats​ :smile_cat:(Migo and Merlot).
