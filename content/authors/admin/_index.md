@@ -75,7 +75,8 @@ email: ""
 # - Visitors
 ---
 
-**I engineer new technology, from circuits to mechanisms to applications**. My multidisciplinary background in mechanical engineering & computer science supports **designing & implementing systems from the fundamental mechanics to the end application**. I have been privileged to pursue these projects at places like the **University of Chicago, Meta (Reality Labs), and KAIST**. <span style="color: #800000;">I will graduate in Spring 2025 -- **I am open to new opportunities in research & engineering!** </span>
+**I engineer new technology, from circuits to mechanisms to applications**. My multidisciplinary background in mechanical engineering & computer science supports **designing & implementing systems from the fundamental mechanics to the end application**. I have been privileged to pursue these projects at places like the **University of Chicago, Meta (Reality Labs), and KAIST**. 
+<span style="color: #800000;">I will graduate in Spring 2025 -- **I am open to new opportunities in research & engineering!** </span>
 
 My PhD research at the University of Chicago focused on **designing wearable devices that provide tactile feedback (touch sensations)**, transforming otherwise passive objects & surfaces into interactive experiences. I specialize in **engineering haptic actuators from the ground up**, & integrating actuators into custom devices that create diverse sensations—such as [vibration](https://www.alexmazursky.com/publication/chi-2021-magnetio/), [friction](https://www.alexmazursky.com/publication/chi-2024-stickslip/), & [temperature](https://www.alexmazursky.com/publication/ieee-vr-2024-thermalgrasp/)—to **augment physical & virtual spaces (AR/VR)**. In addition to haptics, my research has explored [digital fabrication](https://www.alexmazursky.com/publication/uist-2023-thermalrouter/) as well as [robotics](https://www.alexmazursky.com/publication/roman-2022-hrtouch/). 
 
