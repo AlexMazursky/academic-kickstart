@@ -74,16 +74,17 @@ email: ""
 # - Researchers
 # - Visitors
 ---
+I engineer new technology, from circuits to mechanisms to applications. My multidisciplinary background in mechanical engineering and computer science supports designing and implementing systems from the fundamental mechanics to the end application. I have been privileged to pursue these projects at places like the University of Chicago, Meta (Reality Labs), and KAIST.
 
-I am a PhD student at the University of Chicago studying Computer Science. I work with [Prof. Pedro Lopes](http://plopes.org) in the [Human Computer Integration Lab](https://lab.plopes.org/) and am broadly interested in Human-Computer Interaction (HCI), with focus on creating new haptic devices. **My vision is to push haptics toward ubiquity.** I design devices that give dynamic haptics to objects and surfaces that would otherwise be passive. Specifically, I investigate unconventional approaches to engineering haptic actuators from the ground up. In my recent work, I’ve applied this idea to a range of wearables that augment the environment with various haptic sensations, such as [vibration](https://www.alexmazursky.com/publication/chi-2021-magnetio/), [friction](https://www.alexmazursky.com/publication/chi-2024-stickslip/), & [temperature](https://www.alexmazursky.com/publication/ieee-vr-2024-thermalgrasp/). Check out my recent CHI'24 Paper: [Stick&Slip, a wearable approach to alter the friction of everyday objects using liquid coatings on the fingerpad!](https://www.alexmazursky.com/publication/chi-2024-stickslip/chi-2024-stick&slip.pdf)
+I will graduate in the Spring of 2025 -- **I am open to new opportunities in research and engineering!**
+
+My PhD research at the University of Chicago focused on designing wearable devices that provide tactile feedback (touch sensations), transforming otherwise passive objects and surfaces into interactive experiences. I specialize in engineering haptic actuators from the ground up, and integrating actuators into custom devices that create diverse sensations—such as [vibration](https://www.alexmazursky.com/publication/chi-2021-magnetio/), [friction](https://www.alexmazursky.com/publication/chi-2024-stickslip/), & [temperature](https://www.alexmazursky.com/publication/ieee-vr-2024-thermalgrasp/)—to augment physical and virtual spaces (AR/VR). 
+
+My work has been published in the top venues in human-computer interaction. Check out my recent CHI'24 Paper: [Stick&Slip, a wearable approach to alter the friction of everyday objects using liquid coatings on the fingerpad!](https://www.alexmazursky.com/publication/chi-2024-stickslip/chi-2024-stick&slip.pdf)
 
 {{< youtube id="UxqNf1BSIoo" >}}
 
-I plan to graduate in the Summer of 2025 -- **I am open to new opportunities in research and engineering!**
-
-This past summer, I worked at Meta (Reality Labs Research) as a haptics research scientist intern. 
-
-Tangential to my core research, I enjoy learning more about soft robotics, mechanics of materials, and human-robot interaction. 
+Previously, I worked at Meta (Reality Labs Research) as a haptics research scientist intern. 
 
 Outside of lab, I enjoy biking (and wrenching on bikes), running, and spending time in the gym. To relax, I hang out with my partner and our two cats​ :smile_cat:(Migo and Merlot).
 
