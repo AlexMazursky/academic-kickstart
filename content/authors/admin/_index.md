@@ -86,5 +86,5 @@ My work has been published in the top venues in human-computer interaction. Chec
 
 Previously, I worked at Meta (Reality Labs Research) as a haptics research scientist intern. 
 
-Outside of lab, I enjoy biking (& wrenching on bikes), running, and spending time in the gym. To relax, I hang out with my partner & our two cats​ :smile_cat:(Migo & Merlot).
+Outside of lab, I enjoy biking (& wrenching on bikes) and running. To relax, I hang out with my partner & our two cats​ :smile_cat:(Migo & Merlot).
 
