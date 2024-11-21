@@ -84,7 +84,7 @@ My work has been published in the top venues in human-computer interaction (CHI,
 
 {{< youtube id="9bm7lBhwhwY" >}}
 
-Previously, I worked at Meta (Reality Labs Research) as a haptics research scientist intern. 
+During my PhD, I interned at Meta (Reality Labs Research) as a haptics research scientist intern. Before coming to UChicago, I did my BS & MS in mechanical engineering, where I researched electrorheological fluids, liquid that dramatically "stiffens" in an electric field, and [engineered actuators](https://www.alexmazursky.com/publication/sms-2020-erhaptic/) around this phenomenon.
 
 Outside of lab, I enjoy biking (& wrenching on bikes) and running. To relax, I hang out with my partner & our two cats​ :smile_cat:(Migo & Merlot).
 
