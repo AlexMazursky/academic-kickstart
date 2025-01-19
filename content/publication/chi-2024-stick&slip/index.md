@@ -18,5 +18,6 @@ tags: ["haptics", "friction", "adhesion", "grasp", "mixed reality"]
 url_pdf: ""
 doi: "10.1145/3613904.3642299"
 url_video: "https://www.youtube.com/watch?v=UxqNf1BSIoo"
+url_talk: "https://www.youtube.com/watch?v=9wBrpm52Dz0"
 ---
 
