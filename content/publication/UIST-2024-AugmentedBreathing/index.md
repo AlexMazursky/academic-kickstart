@@ -18,8 +18,8 @@ publication: "*ACM UIST 2024*"
 tags: ["breathing", "thermal", "trigeminal", "perception", "respiration"]
 url_pdf: ""
 doi: ""
-url_talk: ""
-url_video: ""
+url_talk: "https://www.youtube.com/watch?v=hncnWF4xAOw"
+url_video: "https://youtu.be/pNdZel2SG10"
 
 ---
 

@@ -49,6 +49,7 @@ subtitle = ""
  css_class = ""
 +++
 
+<span style="color: #800000;">**(01.2025)** </span> My first author paper, Power-on-Touch, has been conditionally accepted to CHI 2025! More info to come!
 
 <span style="color: #800000;">**(11.2024)** </span> I passed my candidacy exam!
 
