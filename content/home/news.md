@@ -49,11 +49,9 @@ subtitle = ""
  css_class = ""
 +++
 
+<span style="color: #800000;">**(02.2025)** </span> I've defended my dissertation! Next chapter begins in ~1 month!
+
 <span style="color: #800000;">**(01.2025)** </span> My first author paper, Power-on-Touch, has been conditionally accepted to CHI 2025! More info to come!
-
-<span style="color: #800000;">**(11.2024)** </span> I passed my candidacy exam!
-
-<img src="/img/thesis-proposal.jpg" width="600" lightbox="true">
 
 <span style="color: #800000;">**(10.2024)** </span> I demo'd our new paper [Augmented Breathing](https://www.alexmazursky.com/publication/uist-2024-augmentedbreathing/UIST-2024-AugmentedBreathing.pdf) with [Jas](https://jasbrooks.net/) at UIST 2024 in Pittsburgh. Also got to demo a variety of work at the southside science festival at UChicago!
 
