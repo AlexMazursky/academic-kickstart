@@ -10,14 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD
+role: Product Design Engineer (Haptics)
 
 # Organizations/Affiliations
 organizations:
-- name: "Human-Computer Integration Lab"
-  url: "https://lab.plopes.org/"
-- name: "The University of Chicago"
-  url: "https://www.uchicago.edu/"
+- name: "Apple"
+  url: "https://apple.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Researching novel haptic devices.
@@ -74,6 +72,8 @@ email: ""
 # - Researchers
 # - Visitors
 ---
+
+I am a product design engineer at Apple.
 
 **I engineer new technology, from circuits to mechanisms to applications**. My multidisciplinary background in mechanical engineering & human-computer interaction supports **designing & implementing systems from the fundamental mechanics to the end application**. I have been privileged to pursue these projects at places like the **University of Chicago, Meta (Reality Labs), and KAIST**. 
 
