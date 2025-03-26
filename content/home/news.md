@@ -49,7 +49,7 @@ subtitle = ""
  css_class = ""
 +++
 
-<span style="color: #800000;">**(03.2025)** </span> I started a new chapter at Apple this month! Excited to be working on devices used by BILLIONS.
+<span style="color: #800000;">**(03.2025)** </span> I started a new chapter at Apple this month! Excited to be working on haptic devices used by BILLIONS.
 
 <span style="color: #800000;">**(02.2025)** </span> I've defended my dissertation! Next chapter begins in ~1 month!
 
