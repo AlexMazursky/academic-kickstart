@@ -17,7 +17,7 @@ featured: true
 publication: "*ACM CHI 2025*"
 tags: ["wireless power transfer", "wearable", "ubiquitous computing", "haptics"]
 url_pdf: ""
-doi: ""
+doi: "10.1145/3706598.3713987"
 url_talk: "https://youtu.be/4j-1z76dS5c"
 url_video: "https://youtu.be/7ZPMr30xVdE"
 

@@ -73,13 +73,13 @@ email: ""
 # - Visitors
 ---
 
-I am a product design engineer at Apple.
+I am a Product Design Engineer at Apple.
 
 Prior to Apple, I completed my PhD at the University of Chicago, where my research focused on **designing wearable devices that provide haptic feedback (touch sensations)**, transforming otherwise passive objects & surfaces into interactive experiences. I specialize in **engineering haptic actuators from the ground up**, & integrating actuators into custom devices that create diverse sensations—such as [vibration](https://www.alexmazursky.com/publication/chi-2021-magnetio/), [friction](https://www.alexmazursky.com/publication/chi-2024-stickslip/), & [temperature](https://www.alexmazursky.com/publication/ieee-vr-2024-thermalgrasp/)—to **augment physical & virtual spaces (AR/VR)**. In addition to haptics, my research has explored [digital fabrication](https://www.alexmazursky.com/publication/uist-2023-thermalrouter/) as well as [robotics](https://www.alexmazursky.com/publication/roman-2022-hrtouch/). During my PhD, I interned at Meta (Reality Labs Research) as a haptics research scientist intern. 
 
-My work has been published in the top venues in human-computer interaction (CHI, UIST, SIGGRAPH ETech). My CHI paper, [MagnetIO](https://www.alexmazursky.com/publication/chi-2021-magnetio/), combines my passion for actuator design, new materials, and vision for the future of haptics. Check out the paper's video:
+My work has been published in the top venues in human-computer interaction (CHI, UIST, SIGGRAPH ETech). My 2025 CHI paper, [PowerOnTouch](https://www.alexmazursky.com/publication/chi-2025-powerontouch/), combines my passion for rethinking actuator design, interaction techniques, and vision for the future of haptics. Check out the paper's video:
 
-{{< youtube id="9bm7lBhwhwY" >}}
+{{< youtube id="7ZPMr30xVdE" >}}
 
 Before coming to UChicago, I did my BS & MS in mechanical engineering, where I researched electrorheological fluids, liquid that dramatically "stiffens" in an electric field, and [engineered actuators](https://www.alexmazursky.com/publication/sms-2020-erhaptic/) around this phenomenon.
 
